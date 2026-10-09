@@ -50,4 +50,4 @@
 
 ## 소식
 
-네이버 카페 「와룡전」 [cafe.naver.com/grz](https://cafe.naver.com/grz)
+네이버 카페 [cafe.naver.com/grz](https://cafe.naver.com/grz)
